@@ -37,9 +37,12 @@ sed 's/\t/\", "es": \"/' sentences-2.tsv > sentences-3.tsv
 # Finish the object, close the line with '"},' and remove
 # the rest of the line
 sed 's/\t.*/\"},/' sentences-3.tsv > sentences-4.tsv
+echo "" >> sentences-4.tsv
+sed 'N; $!P; $!D; $s/},/}/g' sentences-4.tsv > sentences-5.tsv
+# sed '$s/,.$//' sentences-4.tsv > sentences-5.tsv
 # Add the [ and ] characters to the beginning and end
 # respectively
-echo "[" | cat - sentences-4.tsv > sentences.json
+echo "[" | cat - sentences-5.tsv > sentences.json
 echo "
 ]" >> sentences.json
 

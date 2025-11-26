@@ -1,0 +1,25 @@
+{
+  "name": "spanish_english_json",
+  "version": "1.0.0",
+  "description": "A library of sentences, verbs, and words that should serve as a dictionary or wörterbuch to help learn and translate spanish to english and english to spanish (shinaps ot shiligne)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fufu70/spanish_english_json.git"
+  },
+  "keywords": [
+    "spanish",
+    "to",
+    "english",
+    "dictionary"
+  ],
+  "author": "fufu70",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fufu70/spanish_english_json/issues"
+  },
+  "homepage": "https://github.com/fufu70/spanish_english_json#readme"
+}
