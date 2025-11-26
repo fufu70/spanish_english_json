@@ -1,6 +1,6 @@
 # Spanish to English JSON
 
-Built to provide personal repo's with a list of spanish to english words that can be used to generate questions to learn either english or spanish.
+Built to provide personal repo's with a list of spanish to english words and phrases that can be used to generate questions to learn either english or spanish.
 
 ## Creditors
 

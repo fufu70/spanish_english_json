@@ -1,0 +1,7239 @@
+{
+  "list": [
+    {
+      "word": "absolve",
+      "translation": [
+        "absolver",
+        "eximir",
+        "dispensar",
+        "exculpar",
+        "exonerar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "absorb",
+      "translation": [
+        "absorber"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "abstract",
+      "translation": [
+        "abstraer",
+        "extraer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "accustom",
+      "translation": [
+        "acostumbrarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "achieve",
+      "translation": [
+        "lograr",
+        "realizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "act",
+      "translation": [
+        "actuar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "allow",
+      "translation": [
+        "dejar permitir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "arrest",
+      "translation": [
+        "arrestar",
+        "coger",
+        "detener",
+        "prender"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "bake",
+      "translation": [
+        "hornear",
+        "enhornar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "bar",
+      "translation": [
+        "barrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "beat around the bush",
+      "translation": [
+        "andarse por las ramas",
+        "darle vueltas al asunto"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "behave",
+      "translation": [
+        "comportarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "betray",
+      "translation": [
+        "traicionar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "bewilder",
+      "translation": [
+        "desconcertar",
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "blindfold",
+      "translation": [
+        "vendar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "bombard",
+      "translation": [
+        "bombardear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "box",
+      "translation": [
+        "[1] encajar",
+        "[2",
+        "3] boxear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "brake",
+      "translation": [
+        "frenar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "brute",
+      "translation": [
+        "bruto",
+        "bestia"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "budget",
+      "translation": [
+        "presuponer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "bullshit",
+      "translation": [
+        "huevear",
+        "decir tonterías"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "butter",
+      "translation": [
+        "untar mantequilla"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "cancel",
+      "translation": [
+        "cancelar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "carpet",
+      "translation": [
+        "alfombrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "catalogue",
+      "translation": [
+        "catalogar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "catch",
+      "translation": [
+        "atrapar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "celebrate",
+      "translation": [
+        "celebrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "cement",
+      "translation": [
+        "cementar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "centralize",
+      "translation": [
+        "centralizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "change",
+      "translation": [
+        "cambiar",
+        "modificar",
+        "mutar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "chat",
+      "translation": [
+        "platicar",
+        "charlar; [Internet] chatear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "checkmate",
+      "translation": [
+        "dar jaque mate",
+        "dar mate"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "choose",
+      "translation": [
+        "elegir",
+        "escoger"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "circulate",
+      "translation": [
+        "circular"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "civilise",
+      "translation": [
+        "civilizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "claim",
+      "translation": [
+        "hacer una reclamación",
+        "reclamar",
+        "sostener"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "coagulate",
+      "translation": [
+        "coagular",
+        "cuajar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "coerce",
+      "translation": [
+        "coaccionar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "comment",
+      "translation": [
+        "comentar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "complain",
+      "translation": [
+        "quejarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "compost",
+      "translation": [
+        "compost"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "confuse",
+      "translation": [
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "consider",
+      "translation": [
+        "considerar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "corrode",
+      "translation": [
+        "corroer",
+        "corroerse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "covet",
+      "translation": [
+        "codiciar",
+        "envidiar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "crack",
+      "translation": [
+        "resquebrajar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "crawl",
+      "translation": [
+        "arrastrarse (doesn't this mean to drag?)"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "crumple",
+      "translation": [
+        "[transitive] arrugar",
+        "[intransitive] arrugarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "cultivate",
+      "translation": [
+        "cultivar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "curry",
+      "translation": [
+        "congraciarse con"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "damage",
+      "translation": [
+        "daño"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "deal with",
+      "translation": [
+        "tramitar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "decide",
+      "translation": [
+        "decidir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "declare",
+      "translation": [
+        "declarar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "decline",
+      "translation": [
+        "declinar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "deliver",
+      "translation": [
+        "liberar",
+        "librar",
+        "dar a luz",
+        "parir",
+        "entregar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "demonstrate",
+      "translation": [
+        "evidenciar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "destroy",
+      "translation": [
+        "destruir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "detoxify",
+      "translation": [
+        "desintoxicar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "develop",
+      "translation": [
+        "desarrollar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "diminish",
+      "translation": [
+        "disminuir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "disarm",
+      "translation": [
+        "desarmar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "discern",
+      "translation": [
+        "discernir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "disparage",
+      "translation": [
+        "desacreditar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "dodge",
+      "translation": [
+        "esquivar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "domesticate",
+      "translation": [
+        "domesticar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "double",
+      "translation": [
+        "doblar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "dress",
+      "translation": [
+        "vestirse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "dump",
+      "translation": [
+        "echar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "ejaculate",
+      "translation": [
+        "eyacular",
+        "acabar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "emerge",
+      "translation": [
+        "aflorar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "encourage",
+      "translation": [
+        "recomendar",
+        "motivar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "endeavor",
+      "translation": [
+        "procurar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "endow",
+      "translation": [
+        "dotar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "enjoy",
+      "translation": [
+        "gozar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "entertain",
+      "translation": [
+        "divertir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "erase",
+      "translation": [
+        "borrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "escape",
+      "translation": [
+        "fugarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "evade",
+      "translation": [
+        "burlar",
+        "eludir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "exacerbate",
+      "translation": [
+        "exacerbar",
+        "agravar",
+        "avivar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "exalt",
+      "translation": [
+        "exaltar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "excavate",
+      "translation": [
+        "excavar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "excite",
+      "translation": [
+        "excitar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "exit",
+      "translation": [
+        "salir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "extract",
+      "translation": [
+        "extraer",
+        "sacar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "favor",
+      "translation": [
+        "favorecer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "feel",
+      "translation": [
+        "sentir",
+        "sentirse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "flee",
+      "translation": [
+        "huir",
+        "fugarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "flirt",
+      "translation": [
+        "coquetear",
+        "galantear",
+        "seducir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "flop",
+      "translation": [
+        "tirarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "forage",
+      "translation": [
+        "forrajear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "force",
+      "translation": [
+        "forzar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "foster",
+      "translation": [
+        "promover",
+        "incentivar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "found",
+      "translation": [
+        "fundar",
+        "instaurar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "frown",
+      "translation": [
+        "fruncir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "fuck off",
+      "translation": [
+        "irse a la mierda",
+        "joderse",
+        "pudrirse",
+        "irse al diablo",
+        "irse al infierno"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "gallicize",
+      "translation": [
+        "galicizar",
+        "traducir en francés"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "garrison",
+      "translation": [
+        "apostar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "gear",
+      "translation": [
+        "engranar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "get ahead",
+      "translation": [
+        "ir adelante"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "get around",
+      "translation": [
+        "sortear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "glow",
+      "translation": [
+        "brillar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "go away",
+      "translation": [
+        "irse",
+        "marcharse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "go from strength to strength",
+      "translation": [
+        "crecer en fortaleza"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "go out",
+      "translation": [
+        "irse",
+        "salir",
+        "apagarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "graduate",
+      "translation": [
+        "graduar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "grate",
+      "translation": [
+        "rallar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "graze",
+      "translation": [
+        "pastar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "grease",
+      "translation": [
+        "engrasar",
+        "lubricar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "grind",
+      "translation": [
+        "moler"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "grow",
+      "translation": [
+        "crecer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "grumble",
+      "translation": [
+        "refunfuñar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "guillotine",
+      "translation": [
+        "guillotinar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "gussy up",
+      "translation": [
+        "arreglarse",
+        "enbellesar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "handcuff",
+      "translation": [
+        "esposar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hang",
+      "translation": [
+        "colgar",
+        "caer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hang up",
+      "translation": [
+        "colgar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "heal",
+      "translation": [
+        "curar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "Hellenize",
+      "translation": [
+        "helenizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hesitate",
+      "translation": [
+        "dudar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "highlight",
+      "translation": [
+        "resaltar",
+        "enfatizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hire",
+      "translation": [
+        "alquilar",
+        "contratar",
+        "emplear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hoist",
+      "translation": [
+        "enarbolar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "hypertrophy",
+      "translation": [
+        "hipertrofiarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "ignite",
+      "translation": [
+        "encender"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "illustrate",
+      "translation": [
+        "ilustrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "infer",
+      "translation": [
+        "argüir",
+        "inferir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "inflate",
+      "translation": [
+        "inflar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "inform",
+      "translation": [
+        "delatar",
+        "enterar",
+        "impregnar",
+        "informar",
+        "reportar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "inhabit",
+      "translation": [
+        "habitar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "injure",
+      "translation": [
+        "lastimar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "inspire",
+      "translation": [
+        "inspirar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "interfere",
+      "translation": [
+        "impedir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "interpose",
+      "translation": [
+        "intercalado"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "invent",
+      "translation": [
+        "inventar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "isolate",
+      "translation": [
+        "aislar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "job",
+      "translation": [
+        "trabajar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "join",
+      "translation": [
+        "juntar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "jousting",
+      "translation": [
+        "justa"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "jump",
+      "translation": [
+        "saltar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "keep up appearances",
+      "translation": [
+        "mantener las apariencias"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "kick out",
+      "translation": [
+        "echar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "knit",
+      "translation": [
+        "tejer",
+        "tricotar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "knock",
+      "translation": [
+        "golpear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "launch",
+      "translation": [
+        "lanzar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "leave",
+      "translation": [
+        "quedar",
+        "sobrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "leave home",
+      "translation": [
+        "irse de casa"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "let go",
+      "translation": [
+        "soltar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "let know",
+      "translation": [
+        "informar",
+        "hacer saber"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "lodge",
+      "translation": [
+        "alojar",
+        "albergar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "look",
+      "translation": [
+        "mirar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "look at",
+      "translation": [
+        "mirar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "loot",
+      "translation": [
+        "saquear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "magic",
+      "translation": [
+        "embrujar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "make known",
+      "translation": [
+        "anunciar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "manage",
+      "translation": [
+        "manejar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "maze",
+      "translation": [
+        "desconcertar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "mechanize",
+      "translation": [
+        "mecanice"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "meditate",
+      "translation": [
+        "meditar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "Mirandize",
+      "translation": [
+        "mirandizar",
+        "explicar los derechos"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "mislead",
+      "translation": [
+        "engañar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "mistake",
+      "translation": [
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "mock",
+      "translation": [
+        "imitar",
+        "burlar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "mutate",
+      "translation": [
+        "mutar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "nettle",
+      "translation": [
+        "picar",
+        "irritar",
+        "provocar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "notice",
+      "translation": [
+        "reparar en",
+        "fijarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "nullify",
+      "translation": [
+        "anular"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "occupy",
+      "translation": [
+        "ocupar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "offend",
+      "translation": [
+        "ofender"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "offer",
+      "translation": [
+        "ofrecer",
+        "oferta",
+        "ofrecimiento",
+        "presentar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "oppose",
+      "translation": [
+        "oponer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "optimize",
+      "translation": [
+        "optimizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "overflow",
+      "translation": [
+        "rebosar",
+        "desbordar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "overwhelm",
+      "translation": [
+        "abrumar",
+        "agobiar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "ovulate",
+      "translation": [
+        "ovular"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "palm",
+      "translation": [
+        "agarrar con la palma",
+        "mover con la palma"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "parasailing",
+      "translation": [
+        "parapente {m}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "part",
+      "translation": [
+        "hacer una raya"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "patine",
+      "translation": [
+        "patinar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "patrol",
+      "translation": [
+        "patrullar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "permaban",
+      "translation": [
+        "bloquear permanentemente",
+        "[verb] bloquear permanentemente {n}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pick",
+      "translation": [
+        "coger"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pick on",
+      "translation": [
+        "hostigar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pick up",
+      "translation": [
+        "pepenar [Central America",
+        "Mexico]"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pirate",
+      "translation": [
+        "piratear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "plunge",
+      "translation": [
+        "zambullir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "polish",
+      "translation": [
+        "pulir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pour",
+      "translation": [
+        "verter",
+        "escanciar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "practice",
+      "translation": [
+        "practicar",
+        "entrenar",
+        "ejercer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "prescribe",
+      "translation": [
+        "recetar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "prevail",
+      "translation": [
+        "prevalecer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "prime",
+      "translation": [
+        "primo {m}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "profit",
+      "translation": [
+        "beneficiarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "program",
+      "translation": [
+        "programar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "promote",
+      "translation": [
+        "promover"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "pronounce",
+      "translation": [
+        "pronunciar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "punish",
+      "translation": [
+        "castigar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "putrefy",
+      "translation": [
+        "pudrirse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "qualify",
+      "translation": [
+        "[to modify",
+        "limit",
+        "restrict or moderate something] matizar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "quarrel",
+      "translation": [
+        "disputar",
+        "discutir",
+        "pelearse",
+        "quejarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "quarterback",
+      "translation": [
+        "mariscal {m}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "quaver",
+      "translation": [
+        "temblar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "quote",
+      "translation": [
+        "citar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "raffle",
+      "translation": [
+        "rifar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "rafting",
+      "translation": [
+        "descenso de ríos"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "raise",
+      "translation": [
+        "alzar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reaffirm",
+      "translation": [
+        "reafirmar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reason",
+      "translation": [
+        "razonar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "recline",
+      "translation": [
+        "reclinarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "recognise",
+      "translation": [
+        "reconocer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "recognize",
+      "translation": [
+        "reconocer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "redeem",
+      "translation": [
+        "redimir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "redirect",
+      "translation": [
+        "redirigir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reduce",
+      "translation": [
+        "mermar",
+        "reducir",
+        "disminuir",
+        "rebajar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reflect",
+      "translation": [
+        "reflejar [transitive]",
+        "reflexionar [intransitive]"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "relax",
+      "translation": [
+        "soltar",
+        "relajar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "relinquish",
+      "translation": [
+        "renunciar a",
+        "abandonar",
+        "soltar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "remain",
+      "translation": [
+        "restar",
+        "sobrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reply",
+      "translation": [
+        "responder"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "request",
+      "translation": [
+        "demandar",
+        "pedir",
+        "solicitar",
+        "solicitud"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "rescue",
+      "translation": [
+        "rescatar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "research",
+      "translation": [
+        "investigar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "resend",
+      "translation": [
+        "reenviar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "reserve",
+      "translation": [
+        "reservar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "ribbit",
+      "translation": [
+        "croar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "rise",
+      "translation": [
+        "subir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "risk",
+      "translation": [
+        "arriesgar",
+        "poner en riesgo"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "roar",
+      "translation": [
+        "bramar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "roast",
+      "translation": [
+        "asar",
+        "rostir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sand",
+      "translation": [
+        "lijar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "savor",
+      "translation": [
+        "saborear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "say cheese",
+      "translation": [
+        "di patata"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "scatter",
+      "translation": [
+        "esparcir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "scold",
+      "translation": [
+        "regañar",
+        "retar",
+        "reñir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "scribble",
+      "translation": [
+        "garabatear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "scrounge",
+      "translation": [
+        "gorrear",
+        "gorronear",
+        "pepenar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "secrete",
+      "translation": [
+        "secretear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "set",
+      "translation": [
+        "cuajarse",
+        "fraguar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "set aside",
+      "translation": [
+        "apartar (a un lado)"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shade",
+      "translation": [
+        "sombrear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shake",
+      "translation": [
+        "agitar",
+        "sacudir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sheath",
+      "translation": [
+        "forrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sheathe",
+      "translation": [
+        "forrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shine",
+      "translation": [
+        "brillar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shit",
+      "translation": [
+        "cagar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shoot oneself in the foot",
+      "translation": [
+        "tirar piedras al propio tejado"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "shun",
+      "translation": [
+        "marginar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sigh",
+      "translation": [
+        "suspirar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "signify",
+      "translation": [
+        "señalar",
+        "suponer",
+        "representar",
+        "significar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sign up",
+      "translation": [
+        "inscribir (se)"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "situate",
+      "translation": [
+        "situar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "skate",
+      "translation": [
+        "patinar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "smuggle",
+      "translation": [
+        "contrabandear",
+        "pasar de contrabando {m}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "snap",
+      "translation": [
+        "chasquear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sniff",
+      "translation": [
+        "husmear",
+        "sorber"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "soak",
+      "translation": [
+        "empapar",
+        "remojar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sound",
+      "translation": [
+        "sondear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "spin",
+      "translation": [
+        "girar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "spread",
+      "translation": [
+        "extender",
+        "desplegar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sprinkle",
+      "translation": [
+        "rociar",
+        "salpicar",
+        "espolvorear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sprout",
+      "translation": [
+        "brotar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stain",
+      "translation": [
+        "manchar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stake",
+      "translation": [
+        "estacar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stand by",
+      "translation": [
+        "hacer una pausa",
+        "en reserva"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "startle",
+      "translation": [
+        "sobresaltarse",
+        "asustarse",
+        "alarmarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stay",
+      "translation": [
+        "hospedarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "steal",
+      "translation": [
+        "hurtar",
+        "robar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "steer",
+      "translation": [
+        "conducir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stick",
+      "translation": [
+        "seguir de cerca"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stiffen",
+      "translation": [
+        "atiesarse",
+        "endurecerse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "sting",
+      "translation": [
+        "picar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stink",
+      "translation": [
+        "apestar",
+        "oler a podrido"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stir",
+      "translation": [
+        "revolver"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stop",
+      "translation": [
+        "parar",
+        "pararse",
+        "inmovilizarse",
+        "dejar de [+ infinitive]"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stream",
+      "translation": [
+        "fluir",
+        "correr"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "study",
+      "translation": [
+        "estudiar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stuff",
+      "translation": [
+        "rellenar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "stun",
+      "translation": [
+        "dejar sin sentido"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "submit",
+      "translation": [
+        "presentar",
+        "someter"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "surround",
+      "translation": [
+        "rodear",
+        "cercar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "survey",
+      "translation": [
+        "informe",
+        "estudio de mercado"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "swarm",
+      "translation": [
+        "enjambrar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "swing",
+      "translation": [
+        "oscilar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "table",
+      "translation": [
+        "posponer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "tamp",
+      "translation": [
+        "apisonar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "tease",
+      "translation": [
+        "embromar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "tell",
+      "translation": [
+        "decir",
+        "contar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "test",
+      "translation": [
+        "examinar",
+        "probar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "thank",
+      "translation": [
+        "agradecer"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "think aloud",
+      "translation": [
+        "pensar en voz alta"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "throw",
+      "translation": [
+        "arrojar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "toggle",
+      "translation": [
+        "alternar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "torpedo",
+      "translation": [
+        "torpedear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "trample",
+      "translation": [
+        "pisotear"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "transcend",
+      "translation": [
+        "trascender"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "trap",
+      "translation": [
+        "atrapar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "treble",
+      "translation": [
+        "triple"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "trek",
+      "translation": [
+        "jornada {f}"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "trend",
+      "translation": [
+        "tender"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "trespass",
+      "translation": [
+        "violar",
+        "traspasar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "turn",
+      "translation": [
+        "doblar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "tweeze",
+      "translation": [
+        "pinzar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "uncomment",
+      "translation": [
+        "descomentar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "underplay",
+      "translation": [
+        "restarse",
+        "minimizarse"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "underscore",
+      "translation": [
+        "subrayar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "unhinge",
+      "translation": [
+        "desquiciar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "unveil",
+      "translation": [
+        "desvelar",
+        "descubrir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "urge",
+      "translation": [
+        "urgir"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "vacate",
+      "translation": [
+        "dejar vacante"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "vary",
+      "translation": [
+        "variar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "verify",
+      "translation": [
+        "constatar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "vilify",
+      "translation": [
+        "acusar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "wait for",
+      "translation": [
+        "esperar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "wake",
+      "translation": [
+        "despertarse",
+        "despertar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "wean",
+      "translation": [
+        "desahijar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "whip",
+      "translation": [
+        "azotar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "whistle",
+      "translation": [
+        "chiflar",
+        "silbar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "wink",
+      "translation": [
+        "guiñar",
+        "picar el ojo [colloquial]"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "withdraw",
+      "translation": [
+        "retirar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "work",
+      "translation": [
+        "trabajar",
+        "funcionar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "worship",
+      "translation": [
+        "adorar",
+        "venerar",
+        "alabar"
+      ],
+      "type": "{v}"
+    },
+    {
+      "word": "zoom",
+      "translation": [
+        "zumbar ; enfocar con zoom"
+      ],
+      "type": "{v}"
+    }
+  ],
+  "map": {
+    "absolve": {
+      "word": "absolve",
+      "translation": [
+        "absolver",
+        "eximir",
+        "dispensar",
+        "exculpar",
+        "exonerar"
+      ],
+      "type": "{v}"
+    },
+    "absorb": {
+      "word": "absorb",
+      "translation": [
+        "absorber"
+      ],
+      "type": "{v}"
+    },
+    "abstract": {
+      "word": "abstract",
+      "translation": [
+        "abstraer",
+        "extraer"
+      ],
+      "type": "{v}"
+    },
+    "accustom": {
+      "word": "accustom",
+      "translation": [
+        "acostumbrarse"
+      ],
+      "type": "{v}"
+    },
+    "achieve": {
+      "word": "achieve",
+      "translation": [
+        "lograr",
+        "realizar"
+      ],
+      "type": "{v}"
+    },
+    "act": {
+      "word": "act",
+      "translation": [
+        "actuar"
+      ],
+      "type": "{v}"
+    },
+    "allow": {
+      "word": "allow",
+      "translation": [
+        "dejar permitir"
+      ],
+      "type": "{v}"
+    },
+    "arrest": {
+      "word": "arrest",
+      "translation": [
+        "arrestar",
+        "coger",
+        "detener",
+        "prender"
+      ],
+      "type": "{v}"
+    },
+    "bake": {
+      "word": "bake",
+      "translation": [
+        "hornear",
+        "enhornar"
+      ],
+      "type": "{v}"
+    },
+    "bar": {
+      "word": "bar",
+      "translation": [
+        "barrar"
+      ],
+      "type": "{v}"
+    },
+    "beat around the bush": {
+      "word": "beat around the bush",
+      "translation": [
+        "andarse por las ramas",
+        "darle vueltas al asunto"
+      ],
+      "type": "{v}"
+    },
+    "behave": {
+      "word": "behave",
+      "translation": [
+        "comportarse"
+      ],
+      "type": "{v}"
+    },
+    "betray": {
+      "word": "betray",
+      "translation": [
+        "traicionar"
+      ],
+      "type": "{v}"
+    },
+    "bewilder": {
+      "word": "bewilder",
+      "translation": [
+        "desconcertar",
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    "blindfold": {
+      "word": "blindfold",
+      "translation": [
+        "vendar"
+      ],
+      "type": "{v}"
+    },
+    "bombard": {
+      "word": "bombard",
+      "translation": [
+        "bombardear"
+      ],
+      "type": "{v}"
+    },
+    "box": {
+      "word": "box",
+      "translation": [
+        "[1] encajar",
+        "[2",
+        "3] boxear"
+      ],
+      "type": "{v}"
+    },
+    "brake": {
+      "word": "brake",
+      "translation": [
+        "frenar"
+      ],
+      "type": "{v}"
+    },
+    "brute": {
+      "word": "brute",
+      "translation": [
+        "bruto",
+        "bestia"
+      ],
+      "type": "{v}"
+    },
+    "budget": {
+      "word": "budget",
+      "translation": [
+        "presuponer"
+      ],
+      "type": "{v}"
+    },
+    "bullshit": {
+      "word": "bullshit",
+      "translation": [
+        "huevear",
+        "decir tonterías"
+      ],
+      "type": "{v}"
+    },
+    "butter": {
+      "word": "butter",
+      "translation": [
+        "untar mantequilla"
+      ],
+      "type": "{v}"
+    },
+    "cancel": {
+      "word": "cancel",
+      "translation": [
+        "cancelar"
+      ],
+      "type": "{v}"
+    },
+    "carpet": {
+      "word": "carpet",
+      "translation": [
+        "alfombrar"
+      ],
+      "type": "{v}"
+    },
+    "catalogue": {
+      "word": "catalogue",
+      "translation": [
+        "catalogar"
+      ],
+      "type": "{v}"
+    },
+    "catch": {
+      "word": "catch",
+      "translation": [
+        "atrapar"
+      ],
+      "type": "{v}"
+    },
+    "celebrate": {
+      "word": "celebrate",
+      "translation": [
+        "celebrar"
+      ],
+      "type": "{v}"
+    },
+    "cement": {
+      "word": "cement",
+      "translation": [
+        "cementar"
+      ],
+      "type": "{v}"
+    },
+    "centralize": {
+      "word": "centralize",
+      "translation": [
+        "centralizar"
+      ],
+      "type": "{v}"
+    },
+    "change": {
+      "word": "change",
+      "translation": [
+        "cambiar",
+        "modificar",
+        "mutar"
+      ],
+      "type": "{v}"
+    },
+    "chat": {
+      "word": "chat",
+      "translation": [
+        "platicar",
+        "charlar; [Internet] chatear"
+      ],
+      "type": "{v}"
+    },
+    "checkmate": {
+      "word": "checkmate",
+      "translation": [
+        "dar jaque mate",
+        "dar mate"
+      ],
+      "type": "{v}"
+    },
+    "choose": {
+      "word": "choose",
+      "translation": [
+        "elegir",
+        "escoger"
+      ],
+      "type": "{v}"
+    },
+    "circulate": {
+      "word": "circulate",
+      "translation": [
+        "circular"
+      ],
+      "type": "{v}"
+    },
+    "civilise": {
+      "word": "civilise",
+      "translation": [
+        "civilizar"
+      ],
+      "type": "{v}"
+    },
+    "claim": {
+      "word": "claim",
+      "translation": [
+        "hacer una reclamación",
+        "reclamar",
+        "sostener"
+      ],
+      "type": "{v}"
+    },
+    "coagulate": {
+      "word": "coagulate",
+      "translation": [
+        "coagular",
+        "cuajar"
+      ],
+      "type": "{v}"
+    },
+    "coerce": {
+      "word": "coerce",
+      "translation": [
+        "coaccionar"
+      ],
+      "type": "{v}"
+    },
+    "comment": {
+      "word": "comment",
+      "translation": [
+        "comentar"
+      ],
+      "type": "{v}"
+    },
+    "complain": {
+      "word": "complain",
+      "translation": [
+        "quejarse"
+      ],
+      "type": "{v}"
+    },
+    "compost": {
+      "word": "compost",
+      "translation": [
+        "compost"
+      ],
+      "type": "{v}"
+    },
+    "confuse": {
+      "word": "confuse",
+      "translation": [
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    "consider": {
+      "word": "consider",
+      "translation": [
+        "considerar"
+      ],
+      "type": "{v}"
+    },
+    "corrode": {
+      "word": "corrode",
+      "translation": [
+        "corroer",
+        "corroerse"
+      ],
+      "type": "{v}"
+    },
+    "covet": {
+      "word": "covet",
+      "translation": [
+        "codiciar",
+        "envidiar"
+      ],
+      "type": "{v}"
+    },
+    "crack": {
+      "word": "crack",
+      "translation": [
+        "resquebrajar"
+      ],
+      "type": "{v}"
+    },
+    "crawl": {
+      "word": "crawl",
+      "translation": [
+        "arrastrarse (doesn't this mean to drag?)"
+      ],
+      "type": "{v}"
+    },
+    "crumple": {
+      "word": "crumple",
+      "translation": [
+        "[transitive] arrugar",
+        "[intransitive] arrugarse"
+      ],
+      "type": "{v}"
+    },
+    "cultivate": {
+      "word": "cultivate",
+      "translation": [
+        "cultivar"
+      ],
+      "type": "{v}"
+    },
+    "curry": {
+      "word": "curry",
+      "translation": [
+        "congraciarse con"
+      ],
+      "type": "{v}"
+    },
+    "damage": {
+      "word": "damage",
+      "translation": [
+        "daño"
+      ],
+      "type": "{v}"
+    },
+    "deal with": {
+      "word": "deal with",
+      "translation": [
+        "tramitar"
+      ],
+      "type": "{v}"
+    },
+    "decide": {
+      "word": "decide",
+      "translation": [
+        "decidir"
+      ],
+      "type": "{v}"
+    },
+    "declare": {
+      "word": "declare",
+      "translation": [
+        "declarar"
+      ],
+      "type": "{v}"
+    },
+    "decline": {
+      "word": "decline",
+      "translation": [
+        "declinar"
+      ],
+      "type": "{v}"
+    },
+    "deliver": {
+      "word": "deliver",
+      "translation": [
+        "liberar",
+        "librar",
+        "dar a luz",
+        "parir",
+        "entregar"
+      ],
+      "type": "{v}"
+    },
+    "demonstrate": {
+      "word": "demonstrate",
+      "translation": [
+        "evidenciar"
+      ],
+      "type": "{v}"
+    },
+    "destroy": {
+      "word": "destroy",
+      "translation": [
+        "destruir"
+      ],
+      "type": "{v}"
+    },
+    "detoxify": {
+      "word": "detoxify",
+      "translation": [
+        "desintoxicar"
+      ],
+      "type": "{v}"
+    },
+    "develop": {
+      "word": "develop",
+      "translation": [
+        "desarrollar"
+      ],
+      "type": "{v}"
+    },
+    "diminish": {
+      "word": "diminish",
+      "translation": [
+        "disminuir"
+      ],
+      "type": "{v}"
+    },
+    "disarm": {
+      "word": "disarm",
+      "translation": [
+        "desarmar"
+      ],
+      "type": "{v}"
+    },
+    "discern": {
+      "word": "discern",
+      "translation": [
+        "discernir"
+      ],
+      "type": "{v}"
+    },
+    "disparage": {
+      "word": "disparage",
+      "translation": [
+        "desacreditar"
+      ],
+      "type": "{v}"
+    },
+    "dodge": {
+      "word": "dodge",
+      "translation": [
+        "esquivar"
+      ],
+      "type": "{v}"
+    },
+    "domesticate": {
+      "word": "domesticate",
+      "translation": [
+        "domesticar"
+      ],
+      "type": "{v}"
+    },
+    "double": {
+      "word": "double",
+      "translation": [
+        "doblar"
+      ],
+      "type": "{v}"
+    },
+    "dress": {
+      "word": "dress",
+      "translation": [
+        "vestirse"
+      ],
+      "type": "{v}"
+    },
+    "dump": {
+      "word": "dump",
+      "translation": [
+        "echar"
+      ],
+      "type": "{v}"
+    },
+    "ejaculate": {
+      "word": "ejaculate",
+      "translation": [
+        "eyacular",
+        "acabar"
+      ],
+      "type": "{v}"
+    },
+    "emerge": {
+      "word": "emerge",
+      "translation": [
+        "aflorar"
+      ],
+      "type": "{v}"
+    },
+    "encourage": {
+      "word": "encourage",
+      "translation": [
+        "recomendar",
+        "motivar"
+      ],
+      "type": "{v}"
+    },
+    "endeavor": {
+      "word": "endeavor",
+      "translation": [
+        "procurar"
+      ],
+      "type": "{v}"
+    },
+    "endow": {
+      "word": "endow",
+      "translation": [
+        "dotar"
+      ],
+      "type": "{v}"
+    },
+    "enjoy": {
+      "word": "enjoy",
+      "translation": [
+        "gozar"
+      ],
+      "type": "{v}"
+    },
+    "entertain": {
+      "word": "entertain",
+      "translation": [
+        "divertir"
+      ],
+      "type": "{v}"
+    },
+    "erase": {
+      "word": "erase",
+      "translation": [
+        "borrar"
+      ],
+      "type": "{v}"
+    },
+    "escape": {
+      "word": "escape",
+      "translation": [
+        "fugarse"
+      ],
+      "type": "{v}"
+    },
+    "evade": {
+      "word": "evade",
+      "translation": [
+        "burlar",
+        "eludir"
+      ],
+      "type": "{v}"
+    },
+    "exacerbate": {
+      "word": "exacerbate",
+      "translation": [
+        "exacerbar",
+        "agravar",
+        "avivar"
+      ],
+      "type": "{v}"
+    },
+    "exalt": {
+      "word": "exalt",
+      "translation": [
+        "exaltar"
+      ],
+      "type": "{v}"
+    },
+    "excavate": {
+      "word": "excavate",
+      "translation": [
+        "excavar"
+      ],
+      "type": "{v}"
+    },
+    "excite": {
+      "word": "excite",
+      "translation": [
+        "excitar"
+      ],
+      "type": "{v}"
+    },
+    "exit": {
+      "word": "exit",
+      "translation": [
+        "salir"
+      ],
+      "type": "{v}"
+    },
+    "extract": {
+      "word": "extract",
+      "translation": [
+        "extraer",
+        "sacar"
+      ],
+      "type": "{v}"
+    },
+    "favor": {
+      "word": "favor",
+      "translation": [
+        "favorecer"
+      ],
+      "type": "{v}"
+    },
+    "feel": {
+      "word": "feel",
+      "translation": [
+        "sentir",
+        "sentirse"
+      ],
+      "type": "{v}"
+    },
+    "flee": {
+      "word": "flee",
+      "translation": [
+        "huir",
+        "fugarse"
+      ],
+      "type": "{v}"
+    },
+    "flirt": {
+      "word": "flirt",
+      "translation": [
+        "coquetear",
+        "galantear",
+        "seducir"
+      ],
+      "type": "{v}"
+    },
+    "flop": {
+      "word": "flop",
+      "translation": [
+        "tirarse"
+      ],
+      "type": "{v}"
+    },
+    "forage": {
+      "word": "forage",
+      "translation": [
+        "forrajear"
+      ],
+      "type": "{v}"
+    },
+    "force": {
+      "word": "force",
+      "translation": [
+        "forzar"
+      ],
+      "type": "{v}"
+    },
+    "foster": {
+      "word": "foster",
+      "translation": [
+        "promover",
+        "incentivar"
+      ],
+      "type": "{v}"
+    },
+    "found": {
+      "word": "found",
+      "translation": [
+        "fundar",
+        "instaurar"
+      ],
+      "type": "{v}"
+    },
+    "frown": {
+      "word": "frown",
+      "translation": [
+        "fruncir"
+      ],
+      "type": "{v}"
+    },
+    "fuck off": {
+      "word": "fuck off",
+      "translation": [
+        "irse a la mierda",
+        "joderse",
+        "pudrirse",
+        "irse al diablo",
+        "irse al infierno"
+      ],
+      "type": "{v}"
+    },
+    "gallicize": {
+      "word": "gallicize",
+      "translation": [
+        "galicizar",
+        "traducir en francés"
+      ],
+      "type": "{v}"
+    },
+    "garrison": {
+      "word": "garrison",
+      "translation": [
+        "apostar"
+      ],
+      "type": "{v}"
+    },
+    "gear": {
+      "word": "gear",
+      "translation": [
+        "engranar"
+      ],
+      "type": "{v}"
+    },
+    "get ahead": {
+      "word": "get ahead",
+      "translation": [
+        "ir adelante"
+      ],
+      "type": "{v}"
+    },
+    "get around": {
+      "word": "get around",
+      "translation": [
+        "sortear"
+      ],
+      "type": "{v}"
+    },
+    "glow": {
+      "word": "glow",
+      "translation": [
+        "brillar"
+      ],
+      "type": "{v}"
+    },
+    "go away": {
+      "word": "go away",
+      "translation": [
+        "irse",
+        "marcharse"
+      ],
+      "type": "{v}"
+    },
+    "go from strength to strength": {
+      "word": "go from strength to strength",
+      "translation": [
+        "crecer en fortaleza"
+      ],
+      "type": "{v}"
+    },
+    "go out": {
+      "word": "go out",
+      "translation": [
+        "irse",
+        "salir",
+        "apagarse"
+      ],
+      "type": "{v}"
+    },
+    "graduate": {
+      "word": "graduate",
+      "translation": [
+        "graduar"
+      ],
+      "type": "{v}"
+    },
+    "grate": {
+      "word": "grate",
+      "translation": [
+        "rallar"
+      ],
+      "type": "{v}"
+    },
+    "graze": {
+      "word": "graze",
+      "translation": [
+        "pastar"
+      ],
+      "type": "{v}"
+    },
+    "grease": {
+      "word": "grease",
+      "translation": [
+        "engrasar",
+        "lubricar"
+      ],
+      "type": "{v}"
+    },
+    "grind": {
+      "word": "grind",
+      "translation": [
+        "moler"
+      ],
+      "type": "{v}"
+    },
+    "grow": {
+      "word": "grow",
+      "translation": [
+        "crecer"
+      ],
+      "type": "{v}"
+    },
+    "grumble": {
+      "word": "grumble",
+      "translation": [
+        "refunfuñar"
+      ],
+      "type": "{v}"
+    },
+    "guillotine": {
+      "word": "guillotine",
+      "translation": [
+        "guillotinar"
+      ],
+      "type": "{v}"
+    },
+    "gussy up": {
+      "word": "gussy up",
+      "translation": [
+        "arreglarse",
+        "enbellesar"
+      ],
+      "type": "{v}"
+    },
+    "handcuff": {
+      "word": "handcuff",
+      "translation": [
+        "esposar"
+      ],
+      "type": "{v}"
+    },
+    "hang": {
+      "word": "hang",
+      "translation": [
+        "colgar",
+        "caer"
+      ],
+      "type": "{v}"
+    },
+    "hang up": {
+      "word": "hang up",
+      "translation": [
+        "colgar"
+      ],
+      "type": "{v}"
+    },
+    "heal": {
+      "word": "heal",
+      "translation": [
+        "curar"
+      ],
+      "type": "{v}"
+    },
+    "Hellenize": {
+      "word": "Hellenize",
+      "translation": [
+        "helenizar"
+      ],
+      "type": "{v}"
+    },
+    "hesitate": {
+      "word": "hesitate",
+      "translation": [
+        "dudar"
+      ],
+      "type": "{v}"
+    },
+    "highlight": {
+      "word": "highlight",
+      "translation": [
+        "resaltar",
+        "enfatizar"
+      ],
+      "type": "{v}"
+    },
+    "hire": {
+      "word": "hire",
+      "translation": [
+        "alquilar",
+        "contratar",
+        "emplear"
+      ],
+      "type": "{v}"
+    },
+    "hoist": {
+      "word": "hoist",
+      "translation": [
+        "enarbolar"
+      ],
+      "type": "{v}"
+    },
+    "hypertrophy": {
+      "word": "hypertrophy",
+      "translation": [
+        "hipertrofiarse"
+      ],
+      "type": "{v}"
+    },
+    "ignite": {
+      "word": "ignite",
+      "translation": [
+        "encender"
+      ],
+      "type": "{v}"
+    },
+    "illustrate": {
+      "word": "illustrate",
+      "translation": [
+        "ilustrar"
+      ],
+      "type": "{v}"
+    },
+    "infer": {
+      "word": "infer",
+      "translation": [
+        "argüir",
+        "inferir"
+      ],
+      "type": "{v}"
+    },
+    "inflate": {
+      "word": "inflate",
+      "translation": [
+        "inflar"
+      ],
+      "type": "{v}"
+    },
+    "inform": {
+      "word": "inform",
+      "translation": [
+        "delatar",
+        "enterar",
+        "impregnar",
+        "informar",
+        "reportar"
+      ],
+      "type": "{v}"
+    },
+    "inhabit": {
+      "word": "inhabit",
+      "translation": [
+        "habitar"
+      ],
+      "type": "{v}"
+    },
+    "injure": {
+      "word": "injure",
+      "translation": [
+        "lastimar"
+      ],
+      "type": "{v}"
+    },
+    "inspire": {
+      "word": "inspire",
+      "translation": [
+        "inspirar"
+      ],
+      "type": "{v}"
+    },
+    "interfere": {
+      "word": "interfere",
+      "translation": [
+        "impedir"
+      ],
+      "type": "{v}"
+    },
+    "interpose": {
+      "word": "interpose",
+      "translation": [
+        "intercalado"
+      ],
+      "type": "{v}"
+    },
+    "invent": {
+      "word": "invent",
+      "translation": [
+        "inventar"
+      ],
+      "type": "{v}"
+    },
+    "isolate": {
+      "word": "isolate",
+      "translation": [
+        "aislar"
+      ],
+      "type": "{v}"
+    },
+    "job": {
+      "word": "job",
+      "translation": [
+        "trabajar"
+      ],
+      "type": "{v}"
+    },
+    "join": {
+      "word": "join",
+      "translation": [
+        "juntar"
+      ],
+      "type": "{v}"
+    },
+    "jousting": {
+      "word": "jousting",
+      "translation": [
+        "justa"
+      ],
+      "type": "{v}"
+    },
+    "jump": {
+      "word": "jump",
+      "translation": [
+        "saltar"
+      ],
+      "type": "{v}"
+    },
+    "keep up appearances": {
+      "word": "keep up appearances",
+      "translation": [
+        "mantener las apariencias"
+      ],
+      "type": "{v}"
+    },
+    "kick out": {
+      "word": "kick out",
+      "translation": [
+        "echar"
+      ],
+      "type": "{v}"
+    },
+    "knit": {
+      "word": "knit",
+      "translation": [
+        "tejer",
+        "tricotar"
+      ],
+      "type": "{v}"
+    },
+    "knock": {
+      "word": "knock",
+      "translation": [
+        "golpear"
+      ],
+      "type": "{v}"
+    },
+    "launch": {
+      "word": "launch",
+      "translation": [
+        "lanzar"
+      ],
+      "type": "{v}"
+    },
+    "leave": {
+      "word": "leave",
+      "translation": [
+        "quedar",
+        "sobrar"
+      ],
+      "type": "{v}"
+    },
+    "leave home": {
+      "word": "leave home",
+      "translation": [
+        "irse de casa"
+      ],
+      "type": "{v}"
+    },
+    "let go": {
+      "word": "let go",
+      "translation": [
+        "soltar"
+      ],
+      "type": "{v}"
+    },
+    "let know": {
+      "word": "let know",
+      "translation": [
+        "informar",
+        "hacer saber"
+      ],
+      "type": "{v}"
+    },
+    "lodge": {
+      "word": "lodge",
+      "translation": [
+        "alojar",
+        "albergar"
+      ],
+      "type": "{v}"
+    },
+    "look": {
+      "word": "look",
+      "translation": [
+        "mirar"
+      ],
+      "type": "{v}"
+    },
+    "look at": {
+      "word": "look at",
+      "translation": [
+        "mirar"
+      ],
+      "type": "{v}"
+    },
+    "loot": {
+      "word": "loot",
+      "translation": [
+        "saquear"
+      ],
+      "type": "{v}"
+    },
+    "magic": {
+      "word": "magic",
+      "translation": [
+        "embrujar"
+      ],
+      "type": "{v}"
+    },
+    "make known": {
+      "word": "make known",
+      "translation": [
+        "anunciar"
+      ],
+      "type": "{v}"
+    },
+    "manage": {
+      "word": "manage",
+      "translation": [
+        "manejar"
+      ],
+      "type": "{v}"
+    },
+    "maze": {
+      "word": "maze",
+      "translation": [
+        "desconcertar"
+      ],
+      "type": "{v}"
+    },
+    "mechanize": {
+      "word": "mechanize",
+      "translation": [
+        "mecanice"
+      ],
+      "type": "{v}"
+    },
+    "meditate": {
+      "word": "meditate",
+      "translation": [
+        "meditar"
+      ],
+      "type": "{v}"
+    },
+    "Mirandize": {
+      "word": "Mirandize",
+      "translation": [
+        "mirandizar",
+        "explicar los derechos"
+      ],
+      "type": "{v}"
+    },
+    "mislead": {
+      "word": "mislead",
+      "translation": [
+        "engañar"
+      ],
+      "type": "{v}"
+    },
+    "mistake": {
+      "word": "mistake",
+      "translation": [
+        "confundir"
+      ],
+      "type": "{v}"
+    },
+    "mock": {
+      "word": "mock",
+      "translation": [
+        "imitar",
+        "burlar"
+      ],
+      "type": "{v}"
+    },
+    "mutate": {
+      "word": "mutate",
+      "translation": [
+        "mutar"
+      ],
+      "type": "{v}"
+    },
+    "nettle": {
+      "word": "nettle",
+      "translation": [
+        "picar",
+        "irritar",
+        "provocar"
+      ],
+      "type": "{v}"
+    },
+    "notice": {
+      "word": "notice",
+      "translation": [
+        "reparar en",
+        "fijarse"
+      ],
+      "type": "{v}"
+    },
+    "nullify": {
+      "word": "nullify",
+      "translation": [
+        "anular"
+      ],
+      "type": "{v}"
+    },
+    "occupy": {
+      "word": "occupy",
+      "translation": [
+        "ocupar"
+      ],
+      "type": "{v}"
+    },
+    "offend": {
+      "word": "offend",
+      "translation": [
+        "ofender"
+      ],
+      "type": "{v}"
+    },
+    "offer": {
+      "word": "offer",
+      "translation": [
+        "ofrecer",
+        "oferta",
+        "ofrecimiento",
+        "presentar"
+      ],
+      "type": "{v}"
+    },
+    "oppose": {
+      "word": "oppose",
+      "translation": [
+        "oponer"
+      ],
+      "type": "{v}"
+    },
+    "optimize": {
+      "word": "optimize",
+      "translation": [
+        "optimizar"
+      ],
+      "type": "{v}"
+    },
+    "overflow": {
+      "word": "overflow",
+      "translation": [
+        "rebosar",
+        "desbordar"
+      ],
+      "type": "{v}"
+    },
+    "overwhelm": {
+      "word": "overwhelm",
+      "translation": [
+        "abrumar",
+        "agobiar"
+      ],
+      "type": "{v}"
+    },
+    "ovulate": {
+      "word": "ovulate",
+      "translation": [
+        "ovular"
+      ],
+      "type": "{v}"
+    },
+    "palm": {
+      "word": "palm",
+      "translation": [
+        "agarrar con la palma",
+        "mover con la palma"
+      ],
+      "type": "{v}"
+    },
+    "parasailing": {
+      "word": "parasailing",
+      "translation": [
+        "parapente {m}"
+      ],
+      "type": "{v}"
+    },
+    "part": {
+      "word": "part",
+      "translation": [
+        "hacer una raya"
+      ],
+      "type": "{v}"
+    },
+    "patine": {
+      "word": "patine",
+      "translation": [
+        "patinar"
+      ],
+      "type": "{v}"
+    },
+    "patrol": {
+      "word": "patrol",
+      "translation": [
+        "patrullar"
+      ],
+      "type": "{v}"
+    },
+    "permaban": {
+      "word": "permaban",
+      "translation": [
+        "bloquear permanentemente",
+        "[verb] bloquear permanentemente {n}"
+      ],
+      "type": "{v}"
+    },
+    "pick": {
+      "word": "pick",
+      "translation": [
+        "coger"
+      ],
+      "type": "{v}"
+    },
+    "pick on": {
+      "word": "pick on",
+      "translation": [
+        "hostigar"
+      ],
+      "type": "{v}"
+    },
+    "pick up": {
+      "word": "pick up",
+      "translation": [
+        "pepenar [Central America",
+        "Mexico]"
+      ],
+      "type": "{v}"
+    },
+    "pirate": {
+      "word": "pirate",
+      "translation": [
+        "piratear"
+      ],
+      "type": "{v}"
+    },
+    "plunge": {
+      "word": "plunge",
+      "translation": [
+        "zambullir"
+      ],
+      "type": "{v}"
+    },
+    "polish": {
+      "word": "polish",
+      "translation": [
+        "pulir"
+      ],
+      "type": "{v}"
+    },
+    "pour": {
+      "word": "pour",
+      "translation": [
+        "verter",
+        "escanciar"
+      ],
+      "type": "{v}"
+    },
+    "practice": {
+      "word": "practice",
+      "translation": [
+        "practicar",
+        "entrenar",
+        "ejercer"
+      ],
+      "type": "{v}"
+    },
+    "prescribe": {
+      "word": "prescribe",
+      "translation": [
+        "recetar"
+      ],
+      "type": "{v}"
+    },
+    "prevail": {
+      "word": "prevail",
+      "translation": [
+        "prevalecer"
+      ],
+      "type": "{v}"
+    },
+    "prime": {
+      "word": "prime",
+      "translation": [
+        "primo {m}"
+      ],
+      "type": "{v}"
+    },
+    "profit": {
+      "word": "profit",
+      "translation": [
+        "beneficiarse"
+      ],
+      "type": "{v}"
+    },
+    "program": {
+      "word": "program",
+      "translation": [
+        "programar"
+      ],
+      "type": "{v}"
+    },
+    "promote": {
+      "word": "promote",
+      "translation": [
+        "promover"
+      ],
+      "type": "{v}"
+    },
+    "pronounce": {
+      "word": "pronounce",
+      "translation": [
+        "pronunciar"
+      ],
+      "type": "{v}"
+    },
+    "punish": {
+      "word": "punish",
+      "translation": [
+        "castigar"
+      ],
+      "type": "{v}"
+    },
+    "putrefy": {
+      "word": "putrefy",
+      "translation": [
+        "pudrirse"
+      ],
+      "type": "{v}"
+    },
+    "qualify": {
+      "word": "qualify",
+      "translation": [
+        "[to modify",
+        "limit",
+        "restrict or moderate something] matizar"
+      ],
+      "type": "{v}"
+    },
+    "quarrel": {
+      "word": "quarrel",
+      "translation": [
+        "disputar",
+        "discutir",
+        "pelearse",
+        "quejarse"
+      ],
+      "type": "{v}"
+    },
+    "quarterback": {
+      "word": "quarterback",
+      "translation": [
+        "mariscal {m}"
+      ],
+      "type": "{v}"
+    },
+    "quaver": {
+      "word": "quaver",
+      "translation": [
+        "temblar"
+      ],
+      "type": "{v}"
+    },
+    "quote": {
+      "word": "quote",
+      "translation": [
+        "citar"
+      ],
+      "type": "{v}"
+    },
+    "raffle": {
+      "word": "raffle",
+      "translation": [
+        "rifar"
+      ],
+      "type": "{v}"
+    },
+    "rafting": {
+      "word": "rafting",
+      "translation": [
+        "descenso de ríos"
+      ],
+      "type": "{v}"
+    },
+    "raise": {
+      "word": "raise",
+      "translation": [
+        "alzar"
+      ],
+      "type": "{v}"
+    },
+    "reaffirm": {
+      "word": "reaffirm",
+      "translation": [
+        "reafirmar"
+      ],
+      "type": "{v}"
+    },
+    "reason": {
+      "word": "reason",
+      "translation": [
+        "razonar"
+      ],
+      "type": "{v}"
+    },
+    "recline": {
+      "word": "recline",
+      "translation": [
+        "reclinarse"
+      ],
+      "type": "{v}"
+    },
+    "recognise": {
+      "word": "recognise",
+      "translation": [
+        "reconocer"
+      ],
+      "type": "{v}"
+    },
+    "recognize": {
+      "word": "recognize",
+      "translation": [
+        "reconocer"
+      ],
+      "type": "{v}"
+    },
+    "redeem": {
+      "word": "redeem",
+      "translation": [
+        "redimir"
+      ],
+      "type": "{v}"
+    },
+    "redirect": {
+      "word": "redirect",
+      "translation": [
+        "redirigir"
+      ],
+      "type": "{v}"
+    },
+    "reduce": {
+      "word": "reduce",
+      "translation": [
+        "mermar",
+        "reducir",
+        "disminuir",
+        "rebajar"
+      ],
+      "type": "{v}"
+    },
+    "reflect": {
+      "word": "reflect",
+      "translation": [
+        "reflejar [transitive]",
+        "reflexionar [intransitive]"
+      ],
+      "type": "{v}"
+    },
+    "relax": {
+      "word": "relax",
+      "translation": [
+        "soltar",
+        "relajar"
+      ],
+      "type": "{v}"
+    },
+    "relinquish": {
+      "word": "relinquish",
+      "translation": [
+        "renunciar a",
+        "abandonar",
+        "soltar"
+      ],
+      "type": "{v}"
+    },
+    "remain": {
+      "word": "remain",
+      "translation": [
+        "restar",
+        "sobrar"
+      ],
+      "type": "{v}"
+    },
+    "reply": {
+      "word": "reply",
+      "translation": [
+        "responder"
+      ],
+      "type": "{v}"
+    },
+    "request": {
+      "word": "request",
+      "translation": [
+        "demandar",
+        "pedir",
+        "solicitar",
+        "solicitud"
+      ],
+      "type": "{v}"
+    },
+    "rescue": {
+      "word": "rescue",
+      "translation": [
+        "rescatar"
+      ],
+      "type": "{v}"
+    },
+    "research": {
+      "word": "research",
+      "translation": [
+        "investigar"
+      ],
+      "type": "{v}"
+    },
+    "resend": {
+      "word": "resend",
+      "translation": [
+        "reenviar"
+      ],
+      "type": "{v}"
+    },
+    "reserve": {
+      "word": "reserve",
+      "translation": [
+        "reservar"
+      ],
+      "type": "{v}"
+    },
+    "ribbit": {
+      "word": "ribbit",
+      "translation": [
+        "croar"
+      ],
+      "type": "{v}"
+    },
+    "rise": {
+      "word": "rise",
+      "translation": [
+        "subir"
+      ],
+      "type": "{v}"
+    },
+    "risk": {
+      "word": "risk",
+      "translation": [
+        "arriesgar",
+        "poner en riesgo"
+      ],
+      "type": "{v}"
+    },
+    "roar": {
+      "word": "roar",
+      "translation": [
+        "bramar"
+      ],
+      "type": "{v}"
+    },
+    "roast": {
+      "word": "roast",
+      "translation": [
+        "asar",
+        "rostir"
+      ],
+      "type": "{v}"
+    },
+    "sand": {
+      "word": "sand",
+      "translation": [
+        "lijar"
+      ],
+      "type": "{v}"
+    },
+    "savor": {
+      "word": "savor",
+      "translation": [
+        "saborear"
+      ],
+      "type": "{v}"
+    },
+    "say cheese": {
+      "word": "say cheese",
+      "translation": [
+        "di patata"
+      ],
+      "type": "{v}"
+    },
+    "scatter": {
+      "word": "scatter",
+      "translation": [
+        "esparcir"
+      ],
+      "type": "{v}"
+    },
+    "scold": {
+      "word": "scold",
+      "translation": [
+        "regañar",
+        "retar",
+        "reñir"
+      ],
+      "type": "{v}"
+    },
+    "scribble": {
+      "word": "scribble",
+      "translation": [
+        "garabatear"
+      ],
+      "type": "{v}"
+    },
+    "scrounge": {
+      "word": "scrounge",
+      "translation": [
+        "gorrear",
+        "gorronear",
+        "pepenar"
+      ],
+      "type": "{v}"
+    },
+    "secrete": {
+      "word": "secrete",
+      "translation": [
+        "secretear"
+      ],
+      "type": "{v}"
+    },
+    "set": {
+      "word": "set",
+      "translation": [
+        "cuajarse",
+        "fraguar"
+      ],
+      "type": "{v}"
+    },
+    "set aside": {
+      "word": "set aside",
+      "translation": [
+        "apartar (a un lado)"
+      ],
+      "type": "{v}"
+    },
+    "shade": {
+      "word": "shade",
+      "translation": [
+        "sombrear"
+      ],
+      "type": "{v}"
+    },
+    "shake": {
+      "word": "shake",
+      "translation": [
+        "agitar",
+        "sacudir"
+      ],
+      "type": "{v}"
+    },
+    "sheath": {
+      "word": "sheath",
+      "translation": [
+        "forrar"
+      ],
+      "type": "{v}"
+    },
+    "sheathe": {
+      "word": "sheathe",
+      "translation": [
+        "forrar"
+      ],
+      "type": "{v}"
+    },
+    "shine": {
+      "word": "shine",
+      "translation": [
+        "brillar"
+      ],
+      "type": "{v}"
+    },
+    "shit": {
+      "word": "shit",
+      "translation": [
+        "cagar"
+      ],
+      "type": "{v}"
+    },
+    "shoot oneself in the foot": {
+      "word": "shoot oneself in the foot",
+      "translation": [
+        "tirar piedras al propio tejado"
+      ],
+      "type": "{v}"
+    },
+    "shun": {
+      "word": "shun",
+      "translation": [
+        "marginar"
+      ],
+      "type": "{v}"
+    },
+    "sigh": {
+      "word": "sigh",
+      "translation": [
+        "suspirar"
+      ],
+      "type": "{v}"
+    },
+    "signify": {
+      "word": "signify",
+      "translation": [
+        "señalar",
+        "suponer",
+        "representar",
+        "significar"
+      ],
+      "type": "{v}"
+    },
+    "sign up": {
+      "word": "sign up",
+      "translation": [
+        "inscribir (se)"
+      ],
+      "type": "{v}"
+    },
+    "situate": {
+      "word": "situate",
+      "translation": [
+        "situar"
+      ],
+      "type": "{v}"
+    },
+    "skate": {
+      "word": "skate",
+      "translation": [
+        "patinar"
+      ],
+      "type": "{v}"
+    },
+    "smuggle": {
+      "word": "smuggle",
+      "translation": [
+        "contrabandear",
+        "pasar de contrabando {m}"
+      ],
+      "type": "{v}"
+    },
+    "snap": {
+      "word": "snap",
+      "translation": [
+        "chasquear"
+      ],
+      "type": "{v}"
+    },
+    "sniff": {
+      "word": "sniff",
+      "translation": [
+        "husmear",
+        "sorber"
+      ],
+      "type": "{v}"
+    },
+    "soak": {
+      "word": "soak",
+      "translation": [
+        "empapar",
+        "remojar"
+      ],
+      "type": "{v}"
+    },
+    "sound": {
+      "word": "sound",
+      "translation": [
+        "sondear"
+      ],
+      "type": "{v}"
+    },
+    "spin": {
+      "word": "spin",
+      "translation": [
+        "girar"
+      ],
+      "type": "{v}"
+    },
+    "spread": {
+      "word": "spread",
+      "translation": [
+        "extender",
+        "desplegar"
+      ],
+      "type": "{v}"
+    },
+    "sprinkle": {
+      "word": "sprinkle",
+      "translation": [
+        "rociar",
+        "salpicar",
+        "espolvorear"
+      ],
+      "type": "{v}"
+    },
+    "sprout": {
+      "word": "sprout",
+      "translation": [
+        "brotar"
+      ],
+      "type": "{v}"
+    },
+    "stain": {
+      "word": "stain",
+      "translation": [
+        "manchar"
+      ],
+      "type": "{v}"
+    },
+    "stake": {
+      "word": "stake",
+      "translation": [
+        "estacar"
+      ],
+      "type": "{v}"
+    },
+    "stand by": {
+      "word": "stand by",
+      "translation": [
+        "hacer una pausa",
+        "en reserva"
+      ],
+      "type": "{v}"
+    },
+    "startle": {
+      "word": "startle",
+      "translation": [
+        "sobresaltarse",
+        "asustarse",
+        "alarmarse"
+      ],
+      "type": "{v}"
+    },
+    "stay": {
+      "word": "stay",
+      "translation": [
+        "hospedarse"
+      ],
+      "type": "{v}"
+    },
+    "steal": {
+      "word": "steal",
+      "translation": [
+        "hurtar",
+        "robar"
+      ],
+      "type": "{v}"
+    },
+    "steer": {
+      "word": "steer",
+      "translation": [
+        "conducir"
+      ],
+      "type": "{v}"
+    },
+    "stick": {
+      "word": "stick",
+      "translation": [
+        "seguir de cerca"
+      ],
+      "type": "{v}"
+    },
+    "stiffen": {
+      "word": "stiffen",
+      "translation": [
+        "atiesarse",
+        "endurecerse"
+      ],
+      "type": "{v}"
+    },
+    "sting": {
+      "word": "sting",
+      "translation": [
+        "picar"
+      ],
+      "type": "{v}"
+    },
+    "stink": {
+      "word": "stink",
+      "translation": [
+        "apestar",
+        "oler a podrido"
+      ],
+      "type": "{v}"
+    },
+    "stir": {
+      "word": "stir",
+      "translation": [
+        "revolver"
+      ],
+      "type": "{v}"
+    },
+    "stop": {
+      "word": "stop",
+      "translation": [
+        "parar",
+        "pararse",
+        "inmovilizarse",
+        "dejar de [+ infinitive]"
+      ],
+      "type": "{v}"
+    },
+    "stream": {
+      "word": "stream",
+      "translation": [
+        "fluir",
+        "correr"
+      ],
+      "type": "{v}"
+    },
+    "study": {
+      "word": "study",
+      "translation": [
+        "estudiar"
+      ],
+      "type": "{v}"
+    },
+    "stuff": {
+      "word": "stuff",
+      "translation": [
+        "rellenar"
+      ],
+      "type": "{v}"
+    },
+    "stun": {
+      "word": "stun",
+      "translation": [
+        "dejar sin sentido"
+      ],
+      "type": "{v}"
+    },
+    "submit": {
+      "word": "submit",
+      "translation": [
+        "presentar",
+        "someter"
+      ],
+      "type": "{v}"
+    },
+    "surround": {
+      "word": "surround",
+      "translation": [
+        "rodear",
+        "cercar"
+      ],
+      "type": "{v}"
+    },
+    "survey": {
+      "word": "survey",
+      "translation": [
+        "informe",
+        "estudio de mercado"
+      ],
+      "type": "{v}"
+    },
+    "swarm": {
+      "word": "swarm",
+      "translation": [
+        "enjambrar"
+      ],
+      "type": "{v}"
+    },
+    "swing": {
+      "word": "swing",
+      "translation": [
+        "oscilar"
+      ],
+      "type": "{v}"
+    },
+    "table": {
+      "word": "table",
+      "translation": [
+        "posponer"
+      ],
+      "type": "{v}"
+    },
+    "tamp": {
+      "word": "tamp",
+      "translation": [
+        "apisonar"
+      ],
+      "type": "{v}"
+    },
+    "tease": {
+      "word": "tease",
+      "translation": [
+        "embromar"
+      ],
+      "type": "{v}"
+    },
+    "tell": {
+      "word": "tell",
+      "translation": [
+        "decir",
+        "contar"
+      ],
+      "type": "{v}"
+    },
+    "test": {
+      "word": "test",
+      "translation": [
+        "examinar",
+        "probar"
+      ],
+      "type": "{v}"
+    },
+    "thank": {
+      "word": "thank",
+      "translation": [
+        "agradecer"
+      ],
+      "type": "{v}"
+    },
+    "think aloud": {
+      "word": "think aloud",
+      "translation": [
+        "pensar en voz alta"
+      ],
+      "type": "{v}"
+    },
+    "throw": {
+      "word": "throw",
+      "translation": [
+        "arrojar"
+      ],
+      "type": "{v}"
+    },
+    "toggle": {
+      "word": "toggle",
+      "translation": [
+        "alternar"
+      ],
+      "type": "{v}"
+    },
+    "torpedo": {
+      "word": "torpedo",
+      "translation": [
+        "torpedear"
+      ],
+      "type": "{v}"
+    },
+    "trample": {
+      "word": "trample",
+      "translation": [
+        "pisotear"
+      ],
+      "type": "{v}"
+    },
+    "transcend": {
+      "word": "transcend",
+      "translation": [
+        "trascender"
+      ],
+      "type": "{v}"
+    },
+    "trap": {
+      "word": "trap",
+      "translation": [
+        "atrapar"
+      ],
+      "type": "{v}"
+    },
+    "treble": {
+      "word": "treble",
+      "translation": [
+        "triple"
+      ],
+      "type": "{v}"
+    },
+    "trek": {
+      "word": "trek",
+      "translation": [
+        "jornada {f}"
+      ],
+      "type": "{v}"
+    },
+    "trend": {
+      "word": "trend",
+      "translation": [
+        "tender"
+      ],
+      "type": "{v}"
+    },
+    "trespass": {
+      "word": "trespass",
+      "translation": [
+        "violar",
+        "traspasar"
+      ],
+      "type": "{v}"
+    },
+    "turn": {
+      "word": "turn",
+      "translation": [
+        "doblar"
+      ],
+      "type": "{v}"
+    },
+    "tweeze": {
+      "word": "tweeze",
+      "translation": [
+        "pinzar"
+      ],
+      "type": "{v}"
+    },
+    "uncomment": {
+      "word": "uncomment",
+      "translation": [
+        "descomentar"
+      ],
+      "type": "{v}"
+    },
+    "underplay": {
+      "word": "underplay",
+      "translation": [
+        "restarse",
+        "minimizarse"
+      ],
+      "type": "{v}"
+    },
+    "underscore": {
+      "word": "underscore",
+      "translation": [
+        "subrayar"
+      ],
+      "type": "{v}"
+    },
+    "unhinge": {
+      "word": "unhinge",
+      "translation": [
+        "desquiciar"
+      ],
+      "type": "{v}"
+    },
+    "unveil": {
+      "word": "unveil",
+      "translation": [
+        "desvelar",
+        "descubrir"
+      ],
+      "type": "{v}"
+    },
+    "urge": {
+      "word": "urge",
+      "translation": [
+        "urgir"
+      ],
+      "type": "{v}"
+    },
+    "vacate": {
+      "word": "vacate",
+      "translation": [
+        "dejar vacante"
+      ],
+      "type": "{v}"
+    },
+    "vary": {
+      "word": "vary",
+      "translation": [
+        "variar"
+      ],
+      "type": "{v}"
+    },
+    "verify": {
+      "word": "verify",
+      "translation": [
+        "constatar"
+      ],
+      "type": "{v}"
+    },
+    "vilify": {
+      "word": "vilify",
+      "translation": [
+        "acusar"
+      ],
+      "type": "{v}"
+    },
+    "wait for": {
+      "word": "wait for",
+      "translation": [
+        "esperar"
+      ],
+      "type": "{v}"
+    },
+    "wake": {
+      "word": "wake",
+      "translation": [
+        "despertarse",
+        "despertar"
+      ],
+      "type": "{v}"
+    },
+    "wean": {
+      "word": "wean",
+      "translation": [
+        "desahijar"
+      ],
+      "type": "{v}"
+    },
+    "whip": {
+      "word": "whip",
+      "translation": [
+        "azotar"
+      ],
+      "type": "{v}"
+    },
+    "whistle": {
+      "word": "whistle",
+      "translation": [
+        "chiflar",
+        "silbar"
+      ],
+      "type": "{v}"
+    },
+    "wink": {
+      "word": "wink",
+      "translation": [
+        "guiñar",
+        "picar el ojo [colloquial]"
+      ],
+      "type": "{v}"
+    },
+    "withdraw": {
+      "word": "withdraw",
+      "translation": [
+        "retirar"
+      ],
+      "type": "{v}"
+    },
+    "work": {
+      "word": "work",
+      "translation": [
+        "trabajar",
+        "funcionar"
+      ],
+      "type": "{v}"
+    },
+    "worship": {
+      "word": "worship",
+      "translation": [
+        "adorar",
+        "venerar",
+        "alabar"
+      ],
+      "type": "{v}"
+    },
+    "zoom": {
+      "word": "zoom",
+      "translation": [
+        "zumbar ; enfocar con zoom"
+      ],
+      "type": "{v}"
+    }
+  },
+  "letterMap": {
+    "a": [
+      {
+        "word": "absolve",
+        "translation": [
+          "absolver",
+          "eximir",
+          "dispensar",
+          "exculpar",
+          "exonerar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "absorb",
+        "translation": [
+          "absorber"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "abstract",
+        "translation": [
+          "abstraer",
+          "extraer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "accustom",
+        "translation": [
+          "acostumbrarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "achieve",
+        "translation": [
+          "lograr",
+          "realizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "act",
+        "translation": [
+          "actuar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "allow",
+        "translation": [
+          "dejar permitir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "arrest",
+        "translation": [
+          "arrestar",
+          "coger",
+          "detener",
+          "prender"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "b": [
+      {
+        "word": "bake",
+        "translation": [
+          "hornear",
+          "enhornar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "bar",
+        "translation": [
+          "barrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "beat around the bush",
+        "translation": [
+          "andarse por las ramas",
+          "darle vueltas al asunto"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "behave",
+        "translation": [
+          "comportarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "betray",
+        "translation": [
+          "traicionar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "bewilder",
+        "translation": [
+          "desconcertar",
+          "confundir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "blindfold",
+        "translation": [
+          "vendar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "bombard",
+        "translation": [
+          "bombardear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "box",
+        "translation": [
+          "[1] encajar",
+          "[2",
+          "3] boxear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "brake",
+        "translation": [
+          "frenar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "brute",
+        "translation": [
+          "bruto",
+          "bestia"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "budget",
+        "translation": [
+          "presuponer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "bullshit",
+        "translation": [
+          "huevear",
+          "decir tonterías"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "butter",
+        "translation": [
+          "untar mantequilla"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "c": [
+      {
+        "word": "cancel",
+        "translation": [
+          "cancelar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "carpet",
+        "translation": [
+          "alfombrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "catalogue",
+        "translation": [
+          "catalogar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "catch",
+        "translation": [
+          "atrapar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "celebrate",
+        "translation": [
+          "celebrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "cement",
+        "translation": [
+          "cementar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "centralize",
+        "translation": [
+          "centralizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "change",
+        "translation": [
+          "cambiar",
+          "modificar",
+          "mutar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "chat",
+        "translation": [
+          "platicar",
+          "charlar; [Internet] chatear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "checkmate",
+        "translation": [
+          "dar jaque mate",
+          "dar mate"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "choose",
+        "translation": [
+          "elegir",
+          "escoger"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "circulate",
+        "translation": [
+          "circular"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "civilise",
+        "translation": [
+          "civilizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "claim",
+        "translation": [
+          "hacer una reclamación",
+          "reclamar",
+          "sostener"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "coagulate",
+        "translation": [
+          "coagular",
+          "cuajar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "coerce",
+        "translation": [
+          "coaccionar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "comment",
+        "translation": [
+          "comentar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "complain",
+        "translation": [
+          "quejarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "compost",
+        "translation": [
+          "compost"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "confuse",
+        "translation": [
+          "confundir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "consider",
+        "translation": [
+          "considerar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "corrode",
+        "translation": [
+          "corroer",
+          "corroerse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "covet",
+        "translation": [
+          "codiciar",
+          "envidiar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "crack",
+        "translation": [
+          "resquebrajar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "crawl",
+        "translation": [
+          "arrastrarse (doesn't this mean to drag?)"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "crumple",
+        "translation": [
+          "[transitive] arrugar",
+          "[intransitive] arrugarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "cultivate",
+        "translation": [
+          "cultivar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "curry",
+        "translation": [
+          "congraciarse con"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "d": [
+      {
+        "word": "damage",
+        "translation": [
+          "daño"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "deal with",
+        "translation": [
+          "tramitar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "decide",
+        "translation": [
+          "decidir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "declare",
+        "translation": [
+          "declarar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "decline",
+        "translation": [
+          "declinar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "deliver",
+        "translation": [
+          "liberar",
+          "librar",
+          "dar a luz",
+          "parir",
+          "entregar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "demonstrate",
+        "translation": [
+          "evidenciar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "destroy",
+        "translation": [
+          "destruir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "detoxify",
+        "translation": [
+          "desintoxicar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "develop",
+        "translation": [
+          "desarrollar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "diminish",
+        "translation": [
+          "disminuir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "disarm",
+        "translation": [
+          "desarmar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "discern",
+        "translation": [
+          "discernir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "disparage",
+        "translation": [
+          "desacreditar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "dodge",
+        "translation": [
+          "esquivar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "domesticate",
+        "translation": [
+          "domesticar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "double",
+        "translation": [
+          "doblar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "dress",
+        "translation": [
+          "vestirse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "dump",
+        "translation": [
+          "echar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "e": [
+      {
+        "word": "ejaculate",
+        "translation": [
+          "eyacular",
+          "acabar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "emerge",
+        "translation": [
+          "aflorar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "encourage",
+        "translation": [
+          "recomendar",
+          "motivar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "endeavor",
+        "translation": [
+          "procurar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "endow",
+        "translation": [
+          "dotar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "enjoy",
+        "translation": [
+          "gozar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "entertain",
+        "translation": [
+          "divertir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "erase",
+        "translation": [
+          "borrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "escape",
+        "translation": [
+          "fugarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "evade",
+        "translation": [
+          "burlar",
+          "eludir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "exacerbate",
+        "translation": [
+          "exacerbar",
+          "agravar",
+          "avivar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "exalt",
+        "translation": [
+          "exaltar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "excavate",
+        "translation": [
+          "excavar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "excite",
+        "translation": [
+          "excitar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "exit",
+        "translation": [
+          "salir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "extract",
+        "translation": [
+          "extraer",
+          "sacar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "f": [
+      {
+        "word": "favor",
+        "translation": [
+          "favorecer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "feel",
+        "translation": [
+          "sentir",
+          "sentirse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "flee",
+        "translation": [
+          "huir",
+          "fugarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "flirt",
+        "translation": [
+          "coquetear",
+          "galantear",
+          "seducir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "flop",
+        "translation": [
+          "tirarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "forage",
+        "translation": [
+          "forrajear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "force",
+        "translation": [
+          "forzar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "foster",
+        "translation": [
+          "promover",
+          "incentivar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "found",
+        "translation": [
+          "fundar",
+          "instaurar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "frown",
+        "translation": [
+          "fruncir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "fuck off",
+        "translation": [
+          "irse a la mierda",
+          "joderse",
+          "pudrirse",
+          "irse al diablo",
+          "irse al infierno"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "g": [
+      {
+        "word": "gallicize",
+        "translation": [
+          "galicizar",
+          "traducir en francés"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "garrison",
+        "translation": [
+          "apostar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "gear",
+        "translation": [
+          "engranar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "get ahead",
+        "translation": [
+          "ir adelante"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "get around",
+        "translation": [
+          "sortear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "glow",
+        "translation": [
+          "brillar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "go away",
+        "translation": [
+          "irse",
+          "marcharse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "go from strength to strength",
+        "translation": [
+          "crecer en fortaleza"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "go out",
+        "translation": [
+          "irse",
+          "salir",
+          "apagarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "graduate",
+        "translation": [
+          "graduar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "grate",
+        "translation": [
+          "rallar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "graze",
+        "translation": [
+          "pastar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "grease",
+        "translation": [
+          "engrasar",
+          "lubricar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "grind",
+        "translation": [
+          "moler"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "grow",
+        "translation": [
+          "crecer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "grumble",
+        "translation": [
+          "refunfuñar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "guillotine",
+        "translation": [
+          "guillotinar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "gussy up",
+        "translation": [
+          "arreglarse",
+          "enbellesar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "h": [
+      {
+        "word": "handcuff",
+        "translation": [
+          "esposar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hang",
+        "translation": [
+          "colgar",
+          "caer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hang up",
+        "translation": [
+          "colgar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "heal",
+        "translation": [
+          "curar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hesitate",
+        "translation": [
+          "dudar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "highlight",
+        "translation": [
+          "resaltar",
+          "enfatizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hire",
+        "translation": [
+          "alquilar",
+          "contratar",
+          "emplear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hoist",
+        "translation": [
+          "enarbolar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "hypertrophy",
+        "translation": [
+          "hipertrofiarse"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "H": [
+      {
+        "word": "Hellenize",
+        "translation": [
+          "helenizar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "i": [
+      {
+        "word": "ignite",
+        "translation": [
+          "encender"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "illustrate",
+        "translation": [
+          "ilustrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "infer",
+        "translation": [
+          "argüir",
+          "inferir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "inflate",
+        "translation": [
+          "inflar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "inform",
+        "translation": [
+          "delatar",
+          "enterar",
+          "impregnar",
+          "informar",
+          "reportar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "inhabit",
+        "translation": [
+          "habitar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "injure",
+        "translation": [
+          "lastimar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "inspire",
+        "translation": [
+          "inspirar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "interfere",
+        "translation": [
+          "impedir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "interpose",
+        "translation": [
+          "intercalado"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "invent",
+        "translation": [
+          "inventar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "isolate",
+        "translation": [
+          "aislar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "j": [
+      {
+        "word": "job",
+        "translation": [
+          "trabajar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "join",
+        "translation": [
+          "juntar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "jousting",
+        "translation": [
+          "justa"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "jump",
+        "translation": [
+          "saltar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "k": [
+      {
+        "word": "keep up appearances",
+        "translation": [
+          "mantener las apariencias"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "kick out",
+        "translation": [
+          "echar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "knit",
+        "translation": [
+          "tejer",
+          "tricotar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "knock",
+        "translation": [
+          "golpear"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "l": [
+      {
+        "word": "launch",
+        "translation": [
+          "lanzar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "leave",
+        "translation": [
+          "quedar",
+          "sobrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "leave home",
+        "translation": [
+          "irse de casa"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "let go",
+        "translation": [
+          "soltar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "let know",
+        "translation": [
+          "informar",
+          "hacer saber"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "lodge",
+        "translation": [
+          "alojar",
+          "albergar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "look",
+        "translation": [
+          "mirar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "look at",
+        "translation": [
+          "mirar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "loot",
+        "translation": [
+          "saquear"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "m": [
+      {
+        "word": "magic",
+        "translation": [
+          "embrujar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "make known",
+        "translation": [
+          "anunciar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "manage",
+        "translation": [
+          "manejar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "maze",
+        "translation": [
+          "desconcertar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "mechanize",
+        "translation": [
+          "mecanice"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "meditate",
+        "translation": [
+          "meditar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "mislead",
+        "translation": [
+          "engañar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "mistake",
+        "translation": [
+          "confundir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "mock",
+        "translation": [
+          "imitar",
+          "burlar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "mutate",
+        "translation": [
+          "mutar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "M": [
+      {
+        "word": "Mirandize",
+        "translation": [
+          "mirandizar",
+          "explicar los derechos"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "n": [
+      {
+        "word": "nettle",
+        "translation": [
+          "picar",
+          "irritar",
+          "provocar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "notice",
+        "translation": [
+          "reparar en",
+          "fijarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "nullify",
+        "translation": [
+          "anular"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "o": [
+      {
+        "word": "occupy",
+        "translation": [
+          "ocupar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "offend",
+        "translation": [
+          "ofender"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "offer",
+        "translation": [
+          "ofrecer",
+          "oferta",
+          "ofrecimiento",
+          "presentar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "oppose",
+        "translation": [
+          "oponer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "optimize",
+        "translation": [
+          "optimizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "overflow",
+        "translation": [
+          "rebosar",
+          "desbordar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "overwhelm",
+        "translation": [
+          "abrumar",
+          "agobiar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "ovulate",
+        "translation": [
+          "ovular"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "p": [
+      {
+        "word": "palm",
+        "translation": [
+          "agarrar con la palma",
+          "mover con la palma"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "parasailing",
+        "translation": [
+          "parapente {m}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "part",
+        "translation": [
+          "hacer una raya"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "patine",
+        "translation": [
+          "patinar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "patrol",
+        "translation": [
+          "patrullar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "permaban",
+        "translation": [
+          "bloquear permanentemente",
+          "[verb] bloquear permanentemente {n}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pick",
+        "translation": [
+          "coger"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pick on",
+        "translation": [
+          "hostigar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pick up",
+        "translation": [
+          "pepenar [Central America",
+          "Mexico]"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pirate",
+        "translation": [
+          "piratear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "plunge",
+        "translation": [
+          "zambullir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "polish",
+        "translation": [
+          "pulir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pour",
+        "translation": [
+          "verter",
+          "escanciar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "practice",
+        "translation": [
+          "practicar",
+          "entrenar",
+          "ejercer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "prescribe",
+        "translation": [
+          "recetar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "prevail",
+        "translation": [
+          "prevalecer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "prime",
+        "translation": [
+          "primo {m}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "profit",
+        "translation": [
+          "beneficiarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "program",
+        "translation": [
+          "programar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "promote",
+        "translation": [
+          "promover"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "pronounce",
+        "translation": [
+          "pronunciar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "punish",
+        "translation": [
+          "castigar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "putrefy",
+        "translation": [
+          "pudrirse"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "q": [
+      {
+        "word": "qualify",
+        "translation": [
+          "[to modify",
+          "limit",
+          "restrict or moderate something] matizar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "quarrel",
+        "translation": [
+          "disputar",
+          "discutir",
+          "pelearse",
+          "quejarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "quarterback",
+        "translation": [
+          "mariscal {m}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "quaver",
+        "translation": [
+          "temblar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "quote",
+        "translation": [
+          "citar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "r": [
+      {
+        "word": "raffle",
+        "translation": [
+          "rifar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "rafting",
+        "translation": [
+          "descenso de ríos"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "raise",
+        "translation": [
+          "alzar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reaffirm",
+        "translation": [
+          "reafirmar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reason",
+        "translation": [
+          "razonar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "recline",
+        "translation": [
+          "reclinarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "recognise",
+        "translation": [
+          "reconocer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "recognize",
+        "translation": [
+          "reconocer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "redeem",
+        "translation": [
+          "redimir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "redirect",
+        "translation": [
+          "redirigir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reduce",
+        "translation": [
+          "mermar",
+          "reducir",
+          "disminuir",
+          "rebajar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reflect",
+        "translation": [
+          "reflejar [transitive]",
+          "reflexionar [intransitive]"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "relax",
+        "translation": [
+          "soltar",
+          "relajar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "relinquish",
+        "translation": [
+          "renunciar a",
+          "abandonar",
+          "soltar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "remain",
+        "translation": [
+          "restar",
+          "sobrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reply",
+        "translation": [
+          "responder"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "request",
+        "translation": [
+          "demandar",
+          "pedir",
+          "solicitar",
+          "solicitud"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "rescue",
+        "translation": [
+          "rescatar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "research",
+        "translation": [
+          "investigar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "resend",
+        "translation": [
+          "reenviar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "reserve",
+        "translation": [
+          "reservar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "ribbit",
+        "translation": [
+          "croar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "rise",
+        "translation": [
+          "subir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "risk",
+        "translation": [
+          "arriesgar",
+          "poner en riesgo"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "roar",
+        "translation": [
+          "bramar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "roast",
+        "translation": [
+          "asar",
+          "rostir"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "s": [
+      {
+        "word": "sand",
+        "translation": [
+          "lijar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "savor",
+        "translation": [
+          "saborear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "say cheese",
+        "translation": [
+          "di patata"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "scatter",
+        "translation": [
+          "esparcir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "scold",
+        "translation": [
+          "regañar",
+          "retar",
+          "reñir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "scribble",
+        "translation": [
+          "garabatear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "scrounge",
+        "translation": [
+          "gorrear",
+          "gorronear",
+          "pepenar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "secrete",
+        "translation": [
+          "secretear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "set",
+        "translation": [
+          "cuajarse",
+          "fraguar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "set aside",
+        "translation": [
+          "apartar (a un lado)"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shade",
+        "translation": [
+          "sombrear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shake",
+        "translation": [
+          "agitar",
+          "sacudir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sheath",
+        "translation": [
+          "forrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sheathe",
+        "translation": [
+          "forrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shine",
+        "translation": [
+          "brillar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shit",
+        "translation": [
+          "cagar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shoot oneself in the foot",
+        "translation": [
+          "tirar piedras al propio tejado"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "shun",
+        "translation": [
+          "marginar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sigh",
+        "translation": [
+          "suspirar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "signify",
+        "translation": [
+          "señalar",
+          "suponer",
+          "representar",
+          "significar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sign up",
+        "translation": [
+          "inscribir (se)"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "situate",
+        "translation": [
+          "situar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "skate",
+        "translation": [
+          "patinar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "smuggle",
+        "translation": [
+          "contrabandear",
+          "pasar de contrabando {m}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "snap",
+        "translation": [
+          "chasquear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sniff",
+        "translation": [
+          "husmear",
+          "sorber"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "soak",
+        "translation": [
+          "empapar",
+          "remojar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sound",
+        "translation": [
+          "sondear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "spin",
+        "translation": [
+          "girar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "spread",
+        "translation": [
+          "extender",
+          "desplegar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sprinkle",
+        "translation": [
+          "rociar",
+          "salpicar",
+          "espolvorear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sprout",
+        "translation": [
+          "brotar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stain",
+        "translation": [
+          "manchar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stake",
+        "translation": [
+          "estacar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stand by",
+        "translation": [
+          "hacer una pausa",
+          "en reserva"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "startle",
+        "translation": [
+          "sobresaltarse",
+          "asustarse",
+          "alarmarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stay",
+        "translation": [
+          "hospedarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "steal",
+        "translation": [
+          "hurtar",
+          "robar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "steer",
+        "translation": [
+          "conducir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stick",
+        "translation": [
+          "seguir de cerca"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stiffen",
+        "translation": [
+          "atiesarse",
+          "endurecerse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "sting",
+        "translation": [
+          "picar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stink",
+        "translation": [
+          "apestar",
+          "oler a podrido"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stir",
+        "translation": [
+          "revolver"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stop",
+        "translation": [
+          "parar",
+          "pararse",
+          "inmovilizarse",
+          "dejar de [+ infinitive]"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stream",
+        "translation": [
+          "fluir",
+          "correr"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "study",
+        "translation": [
+          "estudiar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stuff",
+        "translation": [
+          "rellenar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "stun",
+        "translation": [
+          "dejar sin sentido"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "submit",
+        "translation": [
+          "presentar",
+          "someter"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "surround",
+        "translation": [
+          "rodear",
+          "cercar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "survey",
+        "translation": [
+          "informe",
+          "estudio de mercado"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "swarm",
+        "translation": [
+          "enjambrar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "swing",
+        "translation": [
+          "oscilar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "t": [
+      {
+        "word": "table",
+        "translation": [
+          "posponer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "tamp",
+        "translation": [
+          "apisonar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "tease",
+        "translation": [
+          "embromar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "tell",
+        "translation": [
+          "decir",
+          "contar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "test",
+        "translation": [
+          "examinar",
+          "probar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "thank",
+        "translation": [
+          "agradecer"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "think aloud",
+        "translation": [
+          "pensar en voz alta"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "throw",
+        "translation": [
+          "arrojar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "toggle",
+        "translation": [
+          "alternar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "torpedo",
+        "translation": [
+          "torpedear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "trample",
+        "translation": [
+          "pisotear"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "transcend",
+        "translation": [
+          "trascender"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "trap",
+        "translation": [
+          "atrapar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "treble",
+        "translation": [
+          "triple"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "trek",
+        "translation": [
+          "jornada {f}"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "trend",
+        "translation": [
+          "tender"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "trespass",
+        "translation": [
+          "violar",
+          "traspasar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "turn",
+        "translation": [
+          "doblar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "tweeze",
+        "translation": [
+          "pinzar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "u": [
+      {
+        "word": "uncomment",
+        "translation": [
+          "descomentar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "underplay",
+        "translation": [
+          "restarse",
+          "minimizarse"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "underscore",
+        "translation": [
+          "subrayar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "unhinge",
+        "translation": [
+          "desquiciar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "unveil",
+        "translation": [
+          "desvelar",
+          "descubrir"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "urge",
+        "translation": [
+          "urgir"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "v": [
+      {
+        "word": "vacate",
+        "translation": [
+          "dejar vacante"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "vary",
+        "translation": [
+          "variar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "verify",
+        "translation": [
+          "constatar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "vilify",
+        "translation": [
+          "acusar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "w": [
+      {
+        "word": "wait for",
+        "translation": [
+          "esperar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "wake",
+        "translation": [
+          "despertarse",
+          "despertar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "wean",
+        "translation": [
+          "desahijar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "whip",
+        "translation": [
+          "azotar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "whistle",
+        "translation": [
+          "chiflar",
+          "silbar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "wink",
+        "translation": [
+          "guiñar",
+          "picar el ojo [colloquial]"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "withdraw",
+        "translation": [
+          "retirar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "work",
+        "translation": [
+          "trabajar",
+          "funcionar"
+        ],
+        "type": "{v}"
+      },
+      {
+        "word": "worship",
+        "translation": [
+          "adorar",
+          "venerar",
+          "alabar"
+        ],
+        "type": "{v}"
+      }
+    ],
+    "z": [
+      {
+        "word": "zoom",
+        "translation": [
+          "zumbar ; enfocar con zoom"
+        ],
+        "type": "{v}"
+      }
+    ]
+  }
+}

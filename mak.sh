@@ -21,6 +21,12 @@ else
 	git pull;
 	cd ..;
 fi
+
+#############################
+#############################
+##########SENTENCES##########
+#############################
+#############################
 # We want to format the tsv file from the spanish_data set to be the following structure
 # {"en": "...", "es": "..."},
 cd $RUNNING_DIR
@@ -48,3 +54,32 @@ echo "
 
 # Cleanup
 rm *.tsv
+
+
+#############################
+#############################
+############VERBS############
+#############################
+#############################
+perl xml-to-json.pl "workdir/en-es-en-Dic/src/main/resources/dic/verbs/en-es.xml" > temp-verb-en-es.json
+perl xml-to-json.pl "workdir/en-es-en-Dic/src/main/resources/dic/verbs/es-en.xml" > temp-verb-es-en.json
+
+node extract.js './temp-verb-en-es.json' 'en-es-verbs.json'
+node extract.js './temp-verb-es-en.json' 'es-en-verbs.json'
+
+rm temp-verb-en-es.json;
+rm temp-verb-es-en.json;
+
+#############################
+#############################
+############WORDS############
+#############################
+#############################
+perl xml-to-json.pl "workdir/en-es-en-Dic/src/main/resources/dic/en-es.xml" > temp-word-en-es.json
+perl xml-to-json.pl "workdir/en-es-en-Dic/src/main/resources/dic/es-en.xml" > temp-word-es-en.json
+
+node extract.js './temp-word-en-es.json' 'en-es-words.json'
+node extract.js './temp-word-es-en.json' 'es-en-words.json'
+
+rm temp-word-en-es.json;
+rm temp-word-es-en.json;
