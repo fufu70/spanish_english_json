@@ -83,3 +83,12 @@ node extract.js './temp-word-es-en.json' 'es-en-words.json'
 
 rm temp-word-en-es.json;
 rm temp-word-es-en.json;
+
+#############################
+#############################
+#######NPM PUBLISHING########
+#############################
+#############################
+
+npm version patch
+npm publish
