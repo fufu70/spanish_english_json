@@ -1,6 +1,6 @@
 {
   "name": "spanish-english-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library of sentences, verbs, and words that should serve as a dictionary or wörterbuch to help learn and translate spanish to english and english to spanish (shinaps ot shiligne)",
   "main": "index.js",
   "scripts": {
